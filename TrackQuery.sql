@@ -1,0 +1,1 @@
+SELECT name, composer, milliseconds FROM Track
